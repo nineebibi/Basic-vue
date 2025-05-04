@@ -1,0 +1,1 @@
+console.log("Adcard.js loaded");
